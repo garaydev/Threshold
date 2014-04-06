@@ -75,6 +75,7 @@
     <p style="float:left"> Enter a subject to see what's trending</p>
 
     <script src="xml2Json.js">
+        window.alert("Not all fields were filled out!");
         xmlDoc = loadXMLDoc("PathOptimization.xml");
         x=xmlDoc.getElementsByTagName("id")[0]; 
         document.write(x.nodeValue);
