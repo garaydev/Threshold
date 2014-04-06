@@ -14,7 +14,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/jumbotron.css" rel="stylesheet">
+    <link href="jumbotron.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -63,19 +63,15 @@
         <input id="submit" type="submit" value="Submit" onClick="getTermResult()" class="btn btn-info center">     
     </div>
 
+    <input type="submit" value="hello world" id="fileinput" onClick="getTermResult()"/>
     <br />
-    <p style="float:left"> Enter a subject to see what's trending</p>
 
-    <script src="xml2Json.js">
-        xmlDoc = loadXMLDoc("PathOptimization.xml");
-        x=xmlDoc.getElementsByTagName("id")[0]; 
-        document.write(x.nodeValue);
-    </script>
+    <p style="float:left"> Enter a subject to see what's trending</p>
 
     <div class="container" >
       <!-- Example row of columns -->
       </div>
-      
+
       <hr>
 
       <footer>
@@ -91,5 +87,6 @@
 
     <script src="js/bootstrap.min.js"></script>
     <script src="js/threadhold.js"></script>
+    <script src="js/xml2Json.js"></script>
   </body>
 </html>

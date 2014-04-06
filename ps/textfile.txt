@@ -1,0 +1,138 @@
+Volume in drive C has no label.
+ Volume Serial Number is CCF3-BB7C
+
+ Directory of C:\Users\CerealWhelp\Desktop
+
+02/27/2013  05:48 PM    <DIR>          .
+02/27/2013  05:48 PM    <DIR>          ..
+01/08/2013  10:02 AM    <DIR>          backups
+01/07/2013  01:30 PM             1,199 Cisco Packet Tracer.lnk
+02/27/2013  04:37 PM    <DIR>          CodesAndCodes
+02/19/2013  06:05 PM            30,892 garayAngel_P2.docx
+02/19/2013  08:14 PM            23,204 garayAngel_P2_VB.docx
+01/12/2013  07:45 PM    <DIR>          HardKeys
+01/11/2013  11:55 AM    <DIR>          Image_Castle
+02/20/2013  02:34 PM    <DIR>          Lab_Works
+02/08/2013  04:32 PM    <DIR>          LostSounds
+02/25/2013  11:17 AM    <DIR>          LostSounds - Copy
+12/29/2012  10:22 AM    <DIR>          Microsoft Office Enterprise 2007
+12/24/2012  10:08 AM             1,042 MSI Afterburner.lnk
+01/28/2013  11:19 AM             1,005 PyScripter.lnk
+02/20/2013  09:59 PM    <DIR>          SchoolBooklet
+02/18/2013  10:39 PM             3,179 Shortcut to SecureDownloadManager.exe.lnk
+01/17/2013  11:02 AM    <DIR>          Spykillers
+09/12/2012  08:15 PM       404,731,592 Star Wars_ Clone Wars 2003 Complete season 1.flv
+02/20/2013  05:17 PM    <DIR>          TechRelated
+02/22/2013  04:29 PM            20,737 TestOut-PCProA+-Module5Five-Part2.docx
+02/27/2013  05:51 PM                 0 textfile.txt
+               9 File(s)    404,812,850 bytes
+              13 Dir(s)  429,246,685,184 bytes free
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Wireless Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wireless Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : hsd1.fl.comcast.net.
+
+Tunnel adapter isatap.{864F3638-5E54-44E1-BA05-8889B894E689}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter isatap.{70E2A813-5BF1-4B8D-9E14-0758EECFB42D}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : CerealWhelp
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Wireless LAN adapter Wireless Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Virtual WiFi Miniport Adapter
+   Physical Address. . . . . . . . . : 20-10-7A-3E-D9-9D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wireless Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek RTL8188CE 802.11b/g/n WiFi Adapter
+   Physical Address. . . . . . . . . : 20-10-7A-3E-D9-9D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : hsd1.fl.comcast.net.
+   Description . . . . . . . . . . . : Realtek PCIe FE Family Controller
+   Physical Address. . . . . . . . . : 80-C1-6E-58-FF-39
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{864F3638-5E54-44E1-BA05-8889B894E689}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft 6to4 Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{70E2A813-5BF1-4B8D-9E14-0758EECFB42D}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #3
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes

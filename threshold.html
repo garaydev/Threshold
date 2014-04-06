@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+<title>Deployd Todos</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <!-- Angular does some things with CSS so it's good to load this in the head -->
+</head>
+<body>
+  <div ng-app="ThresHold">
+    <div ng-controller="ThresHoldController">
+      <div ng-repeat="student in students">
+          {{student.name}}
+          <br />
+          {{student.age}}
+          <br />
+          {{student.height}}
+      </div>
+      {{fun()}}
+    </div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js"></script>
+  <script type="text/javascript" src="js/threadhold.js"></script>
+</body>
+</html>
