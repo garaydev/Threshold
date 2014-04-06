@@ -29,6 +29,9 @@ document.getElementById('submit').onclick = function() {
 	 
 
 }
+
+});
+
 function loadXMLDoc(filename)
 {
 if (window.XMLHttpRequest)
@@ -43,5 +46,3 @@ xhttp.open("GET",filename,false);
 xhttp.send();
 return xhttp.responseXML;
 } 
-
-});
