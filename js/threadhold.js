@@ -22,7 +22,7 @@ document.getElementById('submit').onclick = function() {
 	 	isformfilled = true;
 
 	 if (isformfilled == true){
-	 	$("userform").remove();
+	 	$("userform").parent().remove();
 	 	window.alert("Term 1: " + term1 + "Term 2: " + term2 +  "Term 3: " + term3 + "Term 4: " + term4);
 	 }
 	 	
